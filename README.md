@@ -19,6 +19,6 @@ python3 dice.py
 
 ## Features : 
 
-- You can choose to throw multiple dice at once.
+- You can choose to throw multiple die at once.
 
 This was fairly easy to code. You can also suggest some changes to optimize this.  
