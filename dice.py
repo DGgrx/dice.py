@@ -10,7 +10,7 @@ print("""     _ _
 
 x="y"
 n=int(input("Enter the number of die you wanna throw: "))
-
+# Let's rock and roll baby
 def roll():
     dice = {
         1: """|----------|
